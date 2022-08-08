@@ -2,7 +2,7 @@
 //  SportsCentralUITests.swift
 //  SportsCentralUITests
 //
-//  Created by Rodrigo Silva Ribeiro on 08/08/22.
+//  Created by João Pedro on 08/08/22.
 //
 
 import XCTest

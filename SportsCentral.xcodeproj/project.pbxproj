@@ -7,61 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5BE6177A28A1BBD5006D8E4F /* SportsCentralApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE6177928A1BBD5006D8E4F /* SportsCentralApp.swift */; };
-		5BE6177C28A1BBD5006D8E4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE6177B28A1BBD5006D8E4F /* ContentView.swift */; };
-		5BE6177E28A1BBD6006D8E4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6177D28A1BBD6006D8E4F /* Assets.xcassets */; };
-		5BE6178128A1BBD6006D8E4F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BE6178028A1BBD6006D8E4F /* Preview Assets.xcassets */; };
-		5BE6178B28A1BBD7006D8E4F /* SportsCentralTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE6178A28A1BBD7006D8E4F /* SportsCentralTests.swift */; };
-		5BE6179528A1BBD7006D8E4F /* SportsCentralUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE6179428A1BBD7006D8E4F /* SportsCentralUITests.swift */; };
-		5BE6179728A1BBD7006D8E4F /* SportsCentralUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE6179628A1BBD7006D8E4F /* SportsCentralUITestsLaunchTests.swift */; };
+		3CF6033D28A1CACA0070B6F9 /* SportsCentralApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF6033C28A1CACA0070B6F9 /* SportsCentralApp.swift */; };
+		3CF6033F28A1CACA0070B6F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF6033E28A1CACA0070B6F9 /* ContentView.swift */; };
+		3CF6034128A1CACB0070B6F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CF6034028A1CACB0070B6F9 /* Assets.xcassets */; };
+		3CF6034428A1CACB0070B6F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CF6034328A1CACB0070B6F9 /* Preview Assets.xcassets */; };
+		3CF6034E28A1CACB0070B6F9 /* SportsCentralTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF6034D28A1CACB0070B6F9 /* SportsCentralTests.swift */; };
+		3CF6035828A1CACB0070B6F9 /* SportsCentralUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF6035728A1CACB0070B6F9 /* SportsCentralUITests.swift */; };
+		3CF6035A28A1CACB0070B6F9 /* SportsCentralUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF6035928A1CACB0070B6F9 /* SportsCentralUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5BE6178728A1BBD7006D8E4F /* PBXContainerItemProxy */ = {
+		3CF6034A28A1CACB0070B6F9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5BE6176E28A1BBD5006D8E4F /* Project object */;
+			containerPortal = 3CF6033128A1CACA0070B6F9 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5BE6177528A1BBD5006D8E4F;
+			remoteGlobalIDString = 3CF6033828A1CACA0070B6F9;
 			remoteInfo = SportsCentral;
 		};
-		5BE6179128A1BBD7006D8E4F /* PBXContainerItemProxy */ = {
+		3CF6035428A1CACB0070B6F9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 5BE6176E28A1BBD5006D8E4F /* Project object */;
+			containerPortal = 3CF6033128A1CACA0070B6F9 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 5BE6177528A1BBD5006D8E4F;
+			remoteGlobalIDString = 3CF6033828A1CACA0070B6F9;
 			remoteInfo = SportsCentral;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5BE6177628A1BBD5006D8E4F /* SportsCentral.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportsCentral.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BE6177928A1BBD5006D8E4F /* SportsCentralApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCentralApp.swift; sourceTree = "<group>"; };
-		5BE6177B28A1BBD5006D8E4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		5BE6177D28A1BBD6006D8E4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5BE6178028A1BBD6006D8E4F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		5BE6178628A1BBD7006D8E4F /* SportsCentralTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportsCentralTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BE6178A28A1BBD7006D8E4F /* SportsCentralTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCentralTests.swift; sourceTree = "<group>"; };
-		5BE6179028A1BBD7006D8E4F /* SportsCentralUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportsCentralUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BE6179428A1BBD7006D8E4F /* SportsCentralUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCentralUITests.swift; sourceTree = "<group>"; };
-		5BE6179628A1BBD7006D8E4F /* SportsCentralUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCentralUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3CF6033928A1CACA0070B6F9 /* SportsCentral.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportsCentral.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CF6033C28A1CACA0070B6F9 /* SportsCentralApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCentralApp.swift; sourceTree = "<group>"; };
+		3CF6033E28A1CACA0070B6F9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3CF6034028A1CACB0070B6F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3CF6034328A1CACB0070B6F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3CF6034928A1CACB0070B6F9 /* SportsCentralTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportsCentralTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CF6034D28A1CACB0070B6F9 /* SportsCentralTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCentralTests.swift; sourceTree = "<group>"; };
+		3CF6035328A1CACB0070B6F9 /* SportsCentralUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportsCentralUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CF6035728A1CACB0070B6F9 /* SportsCentralUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCentralUITests.swift; sourceTree = "<group>"; };
+		3CF6035928A1CACB0070B6F9 /* SportsCentralUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCentralUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5BE6177328A1BBD5006D8E4F /* Frameworks */ = {
+		3CF6033628A1CACA0070B6F9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5BE6178328A1BBD7006D8E4F /* Frameworks */ = {
+		3CF6034628A1CACB0070B6F9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5BE6178D28A1BBD7006D8E4F /* Frameworks */ = {
+		3CF6035028A1CACB0070B6F9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -71,58 +71,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5BE6176D28A1BBD5006D8E4F = {
+		3CF6033028A1CACA0070B6F9 = {
 			isa = PBXGroup;
 			children = (
-				5BE6177828A1BBD5006D8E4F /* SportsCentral */,
-				5BE6178928A1BBD7006D8E4F /* SportsCentralTests */,
-				5BE6179328A1BBD7006D8E4F /* SportsCentralUITests */,
-				5BE6177728A1BBD5006D8E4F /* Products */,
+				3CF6033B28A1CACA0070B6F9 /* SportsCentral */,
+				3CF6034C28A1CACB0070B6F9 /* SportsCentralTests */,
+				3CF6035628A1CACB0070B6F9 /* SportsCentralUITests */,
+				3CF6033A28A1CACA0070B6F9 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5BE6177728A1BBD5006D8E4F /* Products */ = {
+		3CF6033A28A1CACA0070B6F9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5BE6177628A1BBD5006D8E4F /* SportsCentral.app */,
-				5BE6178628A1BBD7006D8E4F /* SportsCentralTests.xctest */,
-				5BE6179028A1BBD7006D8E4F /* SportsCentralUITests.xctest */,
+				3CF6033928A1CACA0070B6F9 /* SportsCentral.app */,
+				3CF6034928A1CACB0070B6F9 /* SportsCentralTests.xctest */,
+				3CF6035328A1CACB0070B6F9 /* SportsCentralUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5BE6177828A1BBD5006D8E4F /* SportsCentral */ = {
+		3CF6033B28A1CACA0070B6F9 /* SportsCentral */ = {
 			isa = PBXGroup;
 			children = (
-				5BE6177928A1BBD5006D8E4F /* SportsCentralApp.swift */,
-				5BE6177B28A1BBD5006D8E4F /* ContentView.swift */,
-				5BE6177D28A1BBD6006D8E4F /* Assets.xcassets */,
-				5BE6177F28A1BBD6006D8E4F /* Preview Content */,
+				3CF6033C28A1CACA0070B6F9 /* SportsCentralApp.swift */,
+				3CF6033E28A1CACA0070B6F9 /* ContentView.swift */,
+				3CF6034028A1CACB0070B6F9 /* Assets.xcassets */,
+				3CF6034228A1CACB0070B6F9 /* Preview Content */,
 			);
 			path = SportsCentral;
 			sourceTree = "<group>";
 		};
-		5BE6177F28A1BBD6006D8E4F /* Preview Content */ = {
+		3CF6034228A1CACB0070B6F9 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				5BE6178028A1BBD6006D8E4F /* Preview Assets.xcassets */,
+				3CF6034328A1CACB0070B6F9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		5BE6178928A1BBD7006D8E4F /* SportsCentralTests */ = {
+		3CF6034C28A1CACB0070B6F9 /* SportsCentralTests */ = {
 			isa = PBXGroup;
 			children = (
-				5BE6178A28A1BBD7006D8E4F /* SportsCentralTests.swift */,
+				3CF6034D28A1CACB0070B6F9 /* SportsCentralTests.swift */,
 			);
 			path = SportsCentralTests;
 			sourceTree = "<group>";
 		};
-		5BE6179328A1BBD7006D8E4F /* SportsCentralUITests */ = {
+		3CF6035628A1CACB0070B6F9 /* SportsCentralUITests */ = {
 			isa = PBXGroup;
 			children = (
-				5BE6179428A1BBD7006D8E4F /* SportsCentralUITests.swift */,
-				5BE6179628A1BBD7006D8E4F /* SportsCentralUITestsLaunchTests.swift */,
+				3CF6035728A1CACB0070B6F9 /* SportsCentralUITests.swift */,
+				3CF6035928A1CACB0070B6F9 /* SportsCentralUITestsLaunchTests.swift */,
 			);
 			path = SportsCentralUITests;
 			sourceTree = "<group>";
@@ -130,14 +130,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5BE6177528A1BBD5006D8E4F /* SportsCentral */ = {
+		3CF6033828A1CACA0070B6F9 /* SportsCentral */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5BE6179A28A1BBD7006D8E4F /* Build configuration list for PBXNativeTarget "SportsCentral" */;
+			buildConfigurationList = 3CF6035D28A1CACB0070B6F9 /* Build configuration list for PBXNativeTarget "SportsCentral" */;
 			buildPhases = (
-				5BE6177228A1BBD5006D8E4F /* Sources */,
-				5BE6177328A1BBD5006D8E4F /* Frameworks */,
-				5BE6177428A1BBD5006D8E4F /* Resources */,
-				5BE617A328A1BC95006D8E4F /* ShellScript */,
+				3CF6033528A1CACA0070B6F9 /* Sources */,
+				3CF6033628A1CACA0070B6F9 /* Frameworks */,
+				3CF6033728A1CACA0070B6F9 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -145,69 +144,69 @@
 			);
 			name = SportsCentral;
 			productName = SportsCentral;
-			productReference = 5BE6177628A1BBD5006D8E4F /* SportsCentral.app */;
+			productReference = 3CF6033928A1CACA0070B6F9 /* SportsCentral.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5BE6178528A1BBD7006D8E4F /* SportsCentralTests */ = {
+		3CF6034828A1CACB0070B6F9 /* SportsCentralTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5BE6179D28A1BBD7006D8E4F /* Build configuration list for PBXNativeTarget "SportsCentralTests" */;
+			buildConfigurationList = 3CF6036028A1CACB0070B6F9 /* Build configuration list for PBXNativeTarget "SportsCentralTests" */;
 			buildPhases = (
-				5BE6178228A1BBD7006D8E4F /* Sources */,
-				5BE6178328A1BBD7006D8E4F /* Frameworks */,
-				5BE6178428A1BBD7006D8E4F /* Resources */,
+				3CF6034528A1CACB0070B6F9 /* Sources */,
+				3CF6034628A1CACB0070B6F9 /* Frameworks */,
+				3CF6034728A1CACB0070B6F9 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5BE6178828A1BBD7006D8E4F /* PBXTargetDependency */,
+				3CF6034B28A1CACB0070B6F9 /* PBXTargetDependency */,
 			);
 			name = SportsCentralTests;
 			productName = SportsCentralTests;
-			productReference = 5BE6178628A1BBD7006D8E4F /* SportsCentralTests.xctest */;
+			productReference = 3CF6034928A1CACB0070B6F9 /* SportsCentralTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5BE6178F28A1BBD7006D8E4F /* SportsCentralUITests */ = {
+		3CF6035228A1CACB0070B6F9 /* SportsCentralUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5BE617A028A1BBD7006D8E4F /* Build configuration list for PBXNativeTarget "SportsCentralUITests" */;
+			buildConfigurationList = 3CF6036328A1CACB0070B6F9 /* Build configuration list for PBXNativeTarget "SportsCentralUITests" */;
 			buildPhases = (
-				5BE6178C28A1BBD7006D8E4F /* Sources */,
-				5BE6178D28A1BBD7006D8E4F /* Frameworks */,
-				5BE6178E28A1BBD7006D8E4F /* Resources */,
+				3CF6034F28A1CACB0070B6F9 /* Sources */,
+				3CF6035028A1CACB0070B6F9 /* Frameworks */,
+				3CF6035128A1CACB0070B6F9 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				5BE6179228A1BBD7006D8E4F /* PBXTargetDependency */,
+				3CF6035528A1CACB0070B6F9 /* PBXTargetDependency */,
 			);
 			name = SportsCentralUITests;
 			productName = SportsCentralUITests;
-			productReference = 5BE6179028A1BBD7006D8E4F /* SportsCentralUITests.xctest */;
+			productReference = 3CF6035328A1CACB0070B6F9 /* SportsCentralUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5BE6176E28A1BBD5006D8E4F /* Project object */ = {
+		3CF6033128A1CACA0070B6F9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1340;
-				LastUpgradeCheck = 1340;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					5BE6177528A1BBD5006D8E4F = {
-						CreatedOnToolsVersion = 13.4.1;
+					3CF6033828A1CACA0070B6F9 = {
+						CreatedOnToolsVersion = 13.3.1;
 					};
-					5BE6178528A1BBD7006D8E4F = {
-						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = 5BE6177528A1BBD5006D8E4F;
+					3CF6034828A1CACB0070B6F9 = {
+						CreatedOnToolsVersion = 13.3.1;
+						TestTargetID = 3CF6033828A1CACA0070B6F9;
 					};
-					5BE6178F28A1BBD7006D8E4F = {
-						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = 5BE6177528A1BBD5006D8E4F;
+					3CF6035228A1CACB0070B6F9 = {
+						CreatedOnToolsVersion = 13.3.1;
+						TestTargetID = 3CF6033828A1CACA0070B6F9;
 					};
 				};
 			};
-			buildConfigurationList = 5BE6177128A1BBD5006D8E4F /* Build configuration list for PBXProject "SportsCentral" */;
+			buildConfigurationList = 3CF6033428A1CACA0070B6F9 /* Build configuration list for PBXProject "SportsCentral" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -215,36 +214,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 5BE6176D28A1BBD5006D8E4F;
-			productRefGroup = 5BE6177728A1BBD5006D8E4F /* Products */;
+			mainGroup = 3CF6033028A1CACA0070B6F9;
+			productRefGroup = 3CF6033A28A1CACA0070B6F9 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5BE6177528A1BBD5006D8E4F /* SportsCentral */,
-				5BE6178528A1BBD7006D8E4F /* SportsCentralTests */,
-				5BE6178F28A1BBD7006D8E4F /* SportsCentralUITests */,
+				3CF6033828A1CACA0070B6F9 /* SportsCentral */,
+				3CF6034828A1CACB0070B6F9 /* SportsCentralTests */,
+				3CF6035228A1CACB0070B6F9 /* SportsCentralUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5BE6177428A1BBD5006D8E4F /* Resources */ = {
+		3CF6033728A1CACA0070B6F9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BE6178128A1BBD6006D8E4F /* Preview Assets.xcassets in Resources */,
-				5BE6177E28A1BBD6006D8E4F /* Assets.xcassets in Resources */,
+				3CF6034428A1CACB0070B6F9 /* Preview Assets.xcassets in Resources */,
+				3CF6034128A1CACB0070B6F9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5BE6178428A1BBD7006D8E4F /* Resources */ = {
+		3CF6034728A1CACB0070B6F9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5BE6178E28A1BBD7006D8E4F /* Resources */ = {
+		3CF6035128A1CACB0070B6F9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -253,70 +252,50 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXShellScriptBuildPhase section */
-		5BE617A328A1BC95006D8E4F /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-			);
-			outputFileListPaths = (
-			);
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\nexport PATH=\"$PATH:/opt/homebrew/bin\"\nif which swiftlint > /dev/null; then\n  swiftlint\nelse\n  echo \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi\n";
-		};
-/* End PBXShellScriptBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
-		5BE6177228A1BBD5006D8E4F /* Sources */ = {
+		3CF6033528A1CACA0070B6F9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BE6177C28A1BBD5006D8E4F /* ContentView.swift in Sources */,
-				5BE6177A28A1BBD5006D8E4F /* SportsCentralApp.swift in Sources */,
+				3CF6033F28A1CACA0070B6F9 /* ContentView.swift in Sources */,
+				3CF6033D28A1CACA0070B6F9 /* SportsCentralApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5BE6178228A1BBD7006D8E4F /* Sources */ = {
+		3CF6034528A1CACB0070B6F9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BE6178B28A1BBD7006D8E4F /* SportsCentralTests.swift in Sources */,
+				3CF6034E28A1CACB0070B6F9 /* SportsCentralTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5BE6178C28A1BBD7006D8E4F /* Sources */ = {
+		3CF6034F28A1CACB0070B6F9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BE6179528A1BBD7006D8E4F /* SportsCentralUITests.swift in Sources */,
-				5BE6179728A1BBD7006D8E4F /* SportsCentralUITestsLaunchTests.swift in Sources */,
+				3CF6035828A1CACB0070B6F9 /* SportsCentralUITests.swift in Sources */,
+				3CF6035A28A1CACB0070B6F9 /* SportsCentralUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5BE6178828A1BBD7006D8E4F /* PBXTargetDependency */ = {
+		3CF6034B28A1CACB0070B6F9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5BE6177528A1BBD5006D8E4F /* SportsCentral */;
-			targetProxy = 5BE6178728A1BBD7006D8E4F /* PBXContainerItemProxy */;
+			target = 3CF6033828A1CACA0070B6F9 /* SportsCentral */;
+			targetProxy = 3CF6034A28A1CACB0070B6F9 /* PBXContainerItemProxy */;
 		};
-		5BE6179228A1BBD7006D8E4F /* PBXTargetDependency */ = {
+		3CF6035528A1CACB0070B6F9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5BE6177528A1BBD5006D8E4F /* SportsCentral */;
-			targetProxy = 5BE6179128A1BBD7006D8E4F /* PBXContainerItemProxy */;
+			target = 3CF6033828A1CACA0070B6F9 /* SportsCentral */;
+			targetProxy = 3CF6035428A1CACB0070B6F9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		5BE6179828A1BBD7006D8E4F /* Debug */ = {
+		3CF6035B28A1CACB0070B6F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -366,7 +345,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -376,7 +355,7 @@
 			};
 			name = Debug;
 		};
-		5BE6179928A1BBD7006D8E4F /* Release */ = {
+		3CF6035C28A1CACB0070B6F9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -420,7 +399,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -430,7 +409,7 @@
 			};
 			name = Release;
 		};
-		5BE6179B28A1BBD7006D8E4F /* Debug */ = {
+		3CF6035E28A1CACB0070B6F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -438,7 +417,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SportsCentral/Preview Content\"";
-				DEVELOPMENT_TEAM = 795A25396T;
+				DEVELOPMENT_TEAM = G46Y36GMD7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -459,7 +438,7 @@
 			};
 			name = Debug;
 		};
-		5BE6179C28A1BBD7006D8E4F /* Release */ = {
+		3CF6035F28A1CACB0070B6F9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -467,7 +446,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SportsCentral/Preview Content\"";
-				DEVELOPMENT_TEAM = 795A25396T;
+				DEVELOPMENT_TEAM = G46Y36GMD7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -488,16 +467,16 @@
 			};
 			name = Release;
 		};
-		5BE6179E28A1BBD7006D8E4F /* Debug */ = {
+		3CF6036128A1CACB0070B6F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 795A25396T;
+				DEVELOPMENT_TEAM = G46Y36GMD7;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = MariaJoana.SportsCentralTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -508,16 +487,16 @@
 			};
 			name = Debug;
 		};
-		5BE6179F28A1BBD7006D8E4F /* Release */ = {
+		3CF6036228A1CACB0070B6F9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 795A25396T;
+				DEVELOPMENT_TEAM = G46Y36GMD7;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = MariaJoana.SportsCentralTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -528,13 +507,13 @@
 			};
 			name = Release;
 		};
-		5BE617A128A1BBD7006D8E4F /* Debug */ = {
+		3CF6036428A1CACB0070B6F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 795A25396T;
+				DEVELOPMENT_TEAM = G46Y36GMD7;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = MariaJoana.SportsCentralUITests;
@@ -546,13 +525,13 @@
 			};
 			name = Debug;
 		};
-		5BE617A228A1BBD7006D8E4F /* Release */ = {
+		3CF6036528A1CACB0070B6F9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 795A25396T;
+				DEVELOPMENT_TEAM = G46Y36GMD7;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = MariaJoana.SportsCentralUITests;
@@ -567,43 +546,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5BE6177128A1BBD5006D8E4F /* Build configuration list for PBXProject "SportsCentral" */ = {
+		3CF6033428A1CACA0070B6F9 /* Build configuration list for PBXProject "SportsCentral" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5BE6179828A1BBD7006D8E4F /* Debug */,
-				5BE6179928A1BBD7006D8E4F /* Release */,
+				3CF6035B28A1CACB0070B6F9 /* Debug */,
+				3CF6035C28A1CACB0070B6F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5BE6179A28A1BBD7006D8E4F /* Build configuration list for PBXNativeTarget "SportsCentral" */ = {
+		3CF6035D28A1CACB0070B6F9 /* Build configuration list for PBXNativeTarget "SportsCentral" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5BE6179B28A1BBD7006D8E4F /* Debug */,
-				5BE6179C28A1BBD7006D8E4F /* Release */,
+				3CF6035E28A1CACB0070B6F9 /* Debug */,
+				3CF6035F28A1CACB0070B6F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5BE6179D28A1BBD7006D8E4F /* Build configuration list for PBXNativeTarget "SportsCentralTests" */ = {
+		3CF6036028A1CACB0070B6F9 /* Build configuration list for PBXNativeTarget "SportsCentralTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5BE6179E28A1BBD7006D8E4F /* Debug */,
-				5BE6179F28A1BBD7006D8E4F /* Release */,
+				3CF6036128A1CACB0070B6F9 /* Debug */,
+				3CF6036228A1CACB0070B6F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5BE617A028A1BBD7006D8E4F /* Build configuration list for PBXNativeTarget "SportsCentralUITests" */ = {
+		3CF6036328A1CACB0070B6F9 /* Build configuration list for PBXNativeTarget "SportsCentralUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5BE617A128A1BBD7006D8E4F /* Debug */,
-				5BE617A228A1BBD7006D8E4F /* Release */,
+				3CF6036428A1CACB0070B6F9 /* Debug */,
+				3CF6036528A1CACB0070B6F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5BE6176E28A1BBD5006D8E4F /* Project object */;
+	rootObject = 3CF6033128A1CACA0070B6F9 /* Project object */;
 }
